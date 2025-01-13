@@ -1,0 +1,7 @@
+Validation accuracy: tensor(92.3651)
+Macro precision: 0.9265986392848378
+Macro recall: 0.9251687113495343
+Macro f1-score: 0.9242742880875947
+Number of trainable params:  539142
+FLOPs:69.34M
+
